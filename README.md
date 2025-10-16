@@ -7,13 +7,17 @@ components in a simple setup.
 My goal is to get familiar with the project structure, file-based routing, and the core
 CLI commands.
 
-Quick setup
+## Live demo
+
+The project is deployed here: [https://astro-demo-1234.netlify.app/](https://astro-demo-1234.netlify.app/)
+
+## Quick setup
 
 ```sh
 npm install
 ```
 
-Useful commands (run from the project root)
+### Useful commands (run from the project root)
 
 ```sh
 npm run dev      # start the dev server (default: http://localhost:4321)
@@ -22,7 +26,7 @@ npm run preview  # preview the built site locally
 npm run astro -- --help  # help for Astro CLI commands
 ```
 
-Project structure
+## Project structure
 
 Important files live under `src/`:
 
@@ -36,7 +40,7 @@ Resources
 - Astro documentation: [https://docs.astro.build](https://docs.astro.build)
 - Community / chat: [https://astro.build/chat](https://astro.build/chat)
 
-Notes
+## Notes
 
 This README is intentionally minimal and focused on the personal learning goal of this
 project: getting started with Astro.js. Feel free to modify, extend pages, and add
