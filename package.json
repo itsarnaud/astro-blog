@@ -9,9 +9,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/preact": "^4.1.1",
     "@astrojs/rss": "^4.0.12",
+    "@astrojs/svelte": "^7.2.0",
     "astro": "^5.14.5",
-    "preact": "^10.27.2"
+    "svelte": "^5.40.2",
+    "typescript": "^5.9.3"
   }
 }
